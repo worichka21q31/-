@@ -16,8 +16,8 @@ int main()
 	
 	} while (abc != 12);
 
-	cout << "Âû Ìîëîäåö!\n";
-
+	cout << "Ã‚Ã» ÃŒÃ®Ã«Ã®Ã¤Ã¥Ã¶!\n";
+ 	// russian word
 
 
 	return 0;
